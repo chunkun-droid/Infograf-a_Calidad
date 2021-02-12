@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layout{
+    margin: 0px 35px 0px 35px;
+
+}
+.layout p{
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 22px;
+
+    
+}
+
+.layout h1{
+    font-size: 32px;
+}
+
+
+
+
+.row{
+    margin-top:50px ;
+}
+
+.IEC  {
+    margin-top: 10px;
+    margin-left: 20px;
+   width: 100px;
+   height: 100px;
+   
+}
+
+h1{
+    text-align: center;
+}
+
+.ginebra{
+    width: 200px;
+    height: 100px;
+}
+
+.london{
+    width: 250px;
+    height: 200px;
+}
+
+.CA{
+    width: 80%;
+    margin: 10px 0px 0px 80px;
+}
+
+.ISO{
+    width: auto;
+    height: 100px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 30px;
+}
+
+.title{
+    font-family: 60px;
+}
